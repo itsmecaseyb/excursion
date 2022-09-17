@@ -1,6 +1,6 @@
-#Excursion Web Page
+# Excursion Web Page
 
-##Description
+## Description
 
 This project is a web page created to advertise a new app called 
 Excursion. This was created as a part of the Codecademy course on Git and 
@@ -11,7 +11,7 @@ and not my original code. I used the solution code as my main focus with
 this project was learning how to use GitHub Pages, so I used source code 
 to focus solely on using Git and GitHub.
 
-##How To Use
+## How To Use
 
 Go to [this URL](https://itsmecaseyb.github.io/excursion/) to view the 
 finished page.
